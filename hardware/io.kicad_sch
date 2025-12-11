@@ -4433,7 +4433,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 117.1448 134.62 0)
 			(effects
 				(font
@@ -4834,7 +4834,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
 			(at 45.72 160.02 0)
 			(effects
 				(font
@@ -4983,7 +4983,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
 			(at 113.03 127.508 90)
 			(effects
 				(font
@@ -5468,7 +5468,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 126.0348 114.3 0)
 			(effects
 				(font
@@ -5904,22 +5904,22 @@
 			)
 		)
 		(pin "4"
-			(uuid "81634da0-39aa-46c8-9d14-9fe218fabfdd")
+			(uuid "81634da0-39aa-46c8-9d14-9fe218fabfde")
 		)
 		(pin "1"
-			(uuid "a34d2024-554f-4243-8403-af02ed60769b")
+			(uuid "a34d2024-554f-4243-8403-af02ed60769c")
 		)
 		(pin "5"
-			(uuid "e292b3f4-5923-44d1-ada8-3819984b2a44")
+			(uuid "e292b3f4-5923-44d1-ada8-3819984b2a45")
 		)
 		(pin "3"
-			(uuid "1ae7fb62-9b90-45c6-852c-c83052e2ae3a")
+			(uuid "1ae7fb62-9b90-45c6-852c-c83052e2ae3b")
 		)
 		(pin "6"
-			(uuid "90a71269-2483-4b8b-b1b6-6f0e20b60741")
+			(uuid "90a71269-2483-4b8b-b1b6-6f0e20b60742")
 		)
 		(pin "2"
-			(uuid "d39b254f-b1fc-4344-a41b-4f0eda80f4ec")
+			(uuid "d39b254f-b1fc-4344-a41b-4f0eda80f4ed")
 		)
 		(instances
 			(project ""
@@ -6367,7 +6367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 183.1848 88.9 0)
 			(effects
 				(font
@@ -6704,7 +6704,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 197.8152 88.9 0)
 			(effects
 				(font
@@ -7237,7 +7237,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
 			(at 113.03 138.938 90)
 			(effects
 				(font
@@ -7504,7 +7504,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 221.9452 31.75 0)
 			(effects
 				(font
